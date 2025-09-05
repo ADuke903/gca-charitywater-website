@@ -3,7 +3,7 @@ body {
   background-image: url('img/background_image.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  left: 400px;
+  background-position: 400px left;
 }
 
 .background {
@@ -14,8 +14,14 @@ body {
 h1 {
   font-size: 48px;
   color: black;
+  font-family: Proxima Nova, sans-serif;
 } 
 
+paragraph{
+  font-size: 24px;
+  color: black;
+  font-family: Georgia, serif;
+}
 
 .header {
     width: 102%;
