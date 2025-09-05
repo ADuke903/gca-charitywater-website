@@ -2,8 +2,8 @@
 body {
   background-image: url('img/background_image.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 400px left;
+  background-size: 1045px 720px;
+  background-position: 350px 70px;
 }
 
 .background {
