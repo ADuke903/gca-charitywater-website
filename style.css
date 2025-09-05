@@ -1,12 +1,9 @@
 
 body {
   background-image: url('img/background_image.jpg');
-  background-size: cover
-}
-
-.background {
-    position: absolute;
-    left: 450px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: 400px;
 }
 
 .header {
