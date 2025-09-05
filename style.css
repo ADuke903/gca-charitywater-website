@@ -6,6 +6,12 @@ body {
   left: 400px;
 }
 
+h1 {
+  font-size: 48px;
+  color: black;
+} 
+
+
 .header {
     width: 102%;
     height: 64px;
