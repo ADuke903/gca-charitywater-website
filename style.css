@@ -4,6 +4,14 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   left: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: 100px;
+}
+
+.background {
+    position: absolute;
+    left: 450px;
 }
 
 h1 {
