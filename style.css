@@ -1,7 +1,9 @@
 
 body {
   background-image: url('img/background_image.jpg');
-  background-size: cover
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: 100px;
 }
 
 .background {
