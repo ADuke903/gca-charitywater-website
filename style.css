@@ -1,8 +1,7 @@
 
 body {
   background-image: url('img/background_image.jpg');
-  background-attachment: local;
-  background-size: cover;
+  background-size: cover
 }
 
 .background {
