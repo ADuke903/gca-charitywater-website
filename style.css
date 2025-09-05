@@ -57,3 +57,17 @@ paragraph{
   margin-left: 450px;
   font-size: 18px;
 }
+
+button {
+  padding: 12px 32px;
+  font-size: 30px;
+  background-color: #003366;
+  color: #fff7e1;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
